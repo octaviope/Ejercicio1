@@ -4,10 +4,10 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.Test;
 
-public class ItemsControllerTest {
+class ItemsControllerTest {
 
-	@Test
-	public void postItemTest() throws Exception {
+    @Test
+    void postItemTest() throws Exception {
 
 		// GIVEN
 
