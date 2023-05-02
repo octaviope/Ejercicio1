@@ -27,5 +27,6 @@ class ItemsControllerTest {
 
 		assertThat(postedItem.getDescription()).isEqualTo(itemDescription);
 	}
+	//Bacon frito
 
 }
